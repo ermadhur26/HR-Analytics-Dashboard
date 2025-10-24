@@ -55,4 +55,5 @@ Screenshots / Demos
 Show what the dashboard looks like.
 
 Dashboard Page 1 : https://github.com/ermadhur26/HR-Analytics-Dashboard/blob/main/Attrition%20Overview.png
+
 Dashboard Page 2 : 
